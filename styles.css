@@ -218,6 +218,8 @@ footer a{
 @media (min-device-width:300px) and (max-device-width:700px) {
     .nevbar ul{
         margin-right: 0;
+        margin-left: 0;
+        width: 100%;
     }
     .nameSection{
         height: 550px;
