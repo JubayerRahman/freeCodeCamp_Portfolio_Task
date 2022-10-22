@@ -220,6 +220,7 @@ footer a{
         margin-right: 0;
         margin-left: 0;
         width: 100%;
+        justify-content: center;
     }
     .nameSection{
         height: 550px;
